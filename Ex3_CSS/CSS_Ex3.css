@@ -1,0 +1,16 @@
+.first {
+	color: green;
+}
+
+.third {
+	border: solid;
+	border-color: red;
+	border-width: thick;
+	padding: 20px;
+}
+
+.Camp {
+	width: 800px;
+	border: solid;
+	border-color: yellow;
+}
