@@ -1,0 +1,21 @@
+div {
+	border-style: dotted;
+	border-color: blue;
+	margin: 5px;
+}
+
+#third > p {
+	visibility: hidden;
+}
+
+h1 {
+	visibility: hidden;
+}
+
+#second {
+	visibility: hidden;
+}
+
+#img1 {
+	visibility: visible;
+}
